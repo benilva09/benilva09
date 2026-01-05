@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, i am Computer Science student passionate about software developing . I build projects, explore new tech, and constantly level up my coding skills.
-
+Computer Science student turning coffee into code. Obsessed with tech, cybersecurity, and cool projects—from games to the latest AI experiments. Always learning, occasionally debugging, never boring.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/benilva-keci-74337a251) 
